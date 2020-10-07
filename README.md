@@ -1,5 +1,5 @@
-![new-barber-aplication](https://gph.is/g/aeKMLw5)
-![new-barber-aplication](https://gph.is/g/E0xVOXX)
+![new-barber-aplication](https://media.giphy.com/media/BIFudAYNxJ18u3Okg1/giphy.gif)
+![new-barber-aplication](https://media.giphy.com/media/KEK6hZ1Ep2sZc7sM4I/giphy.gif)
 
  
 ## Features
